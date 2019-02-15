@@ -1,0 +1,26 @@
+CNNCLASS: 0.81
+iter 0: train loss/sent=1.2406, acc=0.6251, time=138.44s
+iter 0: dev acc=0.7885
+best so far found, predicting test dataset...
+iter 1: train loss/sent=0.8157, acc=0.7517, time=142.05s
+iter 1: dev acc=0.8056
+best so far found, predicting test dataset...
+iter 2: train loss/sent=0.7029, acc=0.7847, time=144.65s
+iter 2: dev acc=0.8134
+best so far found, predicting test dataset...
+iter 3: train loss/sent=0.6283, acc=0.8084, time=145.65s
+iter 3: dev acc=0.7885
+iter 4: train loss/sent=0.5718, acc=0.8243, time=146.63s
+iter 4: dev acc=0.8025
+
+Once reached 0.82, didn't save:
+iter 0: train loss/sent=0.0386, acc=0.6293, time=138.69s
+iter 0: dev acc=0.7838
+iter 1: train loss/sent=0.0254, acc=0.7520, time=147.86s
+iter 1: dev acc=0.8072
+iter 2: train loss/sent=0.0219, acc=0.7845, time=142.78s
+iter 2: dev acc=0.8243
+iter 3: train loss/sent=0.0196, acc=0.8074, time=143.83s
+iter 3: dev acc=0.8025
+iter 4: train loss/sent=0.0177, acc=0.8260, time=145.83s
+iter 4: dev acc=0.7947
