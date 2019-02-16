@@ -1,0 +1,68 @@
+iter 0: train loss/sent=1.2720, acc=0.6168, time=173.18s
+iter 0: dev acc=0.7869
+best so far found, predicting test dataset...
+iter 1: train loss/sent=0.8583, acc=0.7445, time=177.60s
+iter 1: dev acc=0.8087
+best so far found, predicting test dataset...
+iter 2: train loss/sent=0.7613, acc=0.7720, time=177.03s
+iter 2: dev acc=0.8165
+best so far found, predicting test dataset...
+iter 3: train loss/sent=0.7049, acc=0.7882, time=178.35s
+iter 3: dev acc=0.8149
+iter 4: train loss/sent=0.6653, acc=0.8003, time=177.62s
+iter 4: dev acc=0.8025
+iter 5: train loss/sent=0.6345, acc=0.8092, time=177.95s
+iter 5: dev acc=0.7963
+iter 6: train loss/sent=0.6117, acc=0.8163, time=178.15s
+iter 6: dev acc=0.7916
+iter 7: train loss/sent=0.5924, acc=0.8225, time=177.42s
+iter 7: dev acc=0.7963
+iter 8: train loss/sent=0.5761, acc=0.8258, time=177.68s
+iter 8: dev acc=0.7854
+iter 9: train loss/sent=0.5606, acc=0.8308, time=177.45s
+iter 9: dev acc=0.7823
+
+
+0.8103(submission)
+
+iter 0: train loss/sent=1.2773, acc=0.6156, time=174.30s
+iter 0: dev acc=0.7900
+best so far found, predicting test dataset...
+iter 1: train loss/sent=0.8576, acc=0.7441, time=177.73s
+iter 1: dev acc=0.8009
+best so far found, predicting test dataset...
+iter 2: train loss/sent=0.7616, acc=0.7729, time=178.54s
+iter 2: dev acc=0.8087
+best so far found, predicting test dataset...
+iter 3: train loss/sent=0.7048, acc=0.7888, time=185.27s
+iter 3: dev acc=0.8025
+iter 4: train loss/sent=0.6641, acc=0.8014, time=178.26s
+iter 4: dev acc=0.8103
+best so far found, predicting test dataset...
+iter 5: train loss/sent=0.6357, acc=0.8090, time=178.24s
+iter 5: dev acc=0.8009
+iter 6: train loss/sent=0.6117, acc=0.8159, time=207.05s
+iter 6: dev acc=0.8025
+iter 7: train loss/sent=0.5923, acc=0.8221, time=178.20s
+iter 7: dev acc=0.8103
+iter 8: train loss/sent=0.5761, acc=0.8265, time=177.86s
+iter 8: dev acc=0.7963
+iter 9: train loss/sent=0.5636, acc=0.8295, time=177.54s
+iter 9: dev acc=0.7947
+
+
+CNN2d: 0.81
+
+iter 0: train loss/sent=1.2726, acc=0.6153, time=163.15s
+iter 0: dev acc=0.7869
+best so far found, predicting test dataset...
+iter 1: train loss/sent=0.8594, acc=0.7439, time=165.92s
+iter 1: dev acc=0.8087
+best so far found, predicting test dataset...
+iter 2: train loss/sent=0.7618, acc=0.7716, time=164.92s
+iter 2: dev acc=0.8009
+iter 3: train loss/sent=0.7034, acc=0.7896, time=163.64s
+iter 3: dev acc=0.8118
+best so far found, predicting test dataset...
+iter 4: train loss/sent=0.6607, acc=0.8020, time=167.77s
+iter 4: dev acc=0.7994
