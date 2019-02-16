@@ -2,9 +2,19 @@
 
 ### How to run
 
+2d conv CNN(Kim's version):
+
+Train and evaluate the model: python cnn2d_train.py
+
+1d conv CNN:
+
 Train the model: python cnn_train.py
 
 Evaluate the best model: python cnn_predict.py
+
+### Dependencies
+
+PyTorch, Numpy, Cuda, CuDNN
 
 ### Citation
 
